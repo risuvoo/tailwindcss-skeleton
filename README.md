@@ -17,3 +17,7 @@
 #### For production mode run :
 
 `$ npm run build`
+
+## Credits
+
+Made by [risuvodev](https://www.linkedin.com/in/risuvodev/)
