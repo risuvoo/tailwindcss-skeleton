@@ -2,7 +2,7 @@
 
 #### Clone this repository
 
-`$ npm install marked`
+`$ https://github.com/risuvodev/tailwindcss-skeleton`
 
 #### For development mode run :
 
