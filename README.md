@@ -4,6 +4,10 @@
 
 `$ https://github.com/risuvodev/tailwindcss-skeleton`
 
+#### Install dependency :
+
+`$ npm install`
+
 #### For development mode run :
 
 `$ npm run dev`
