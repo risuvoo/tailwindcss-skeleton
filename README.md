@@ -18,6 +18,10 @@
 
 `$ npm run build`
 
+### Stargazers
+
+[![Stargazers repo roster for @risuvoo/tailwindcss-skeleton](https://reporoster.com/stars/risuvoo/tailwindcss-skeleton)](https://github.com/risuvoo/tailwindcss-skeleton/stargazers)
+
 ## Credits
 
 Made by [risuvoo](https://www.linkedin.com/in/risuvoo/)
