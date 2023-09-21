@@ -20,4 +20,4 @@
 
 ## Credits
 
-Made by [risuvodev](https://www.linkedin.com/in/risuvodev/)
+Made by [risuvodev](https://www.linkedin.com/in/risuvoo/)
