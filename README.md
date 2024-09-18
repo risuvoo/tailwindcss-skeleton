@@ -2,7 +2,7 @@
 
 #### Clone this repository
 
-`$ https://github.com/risuvodev/tailwindcss-skeleton`
+`$ https://github.com/risuvoo/tailwindcss-skeleton`
 
 #### Install dependency :
 
